@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Saint Petersburg
 * ✉️  You can contact me at [227ad44@gmail.com](mailto:227ad44@gmail.com)
 
-### Skills
-https://img.shields.io/badge/just%20the%20message-8A2BE2
+### Skills[
+https://img.shields.io/badge/:badgeContent
 
 
 
