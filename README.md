@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Аlexander Bessonov
 =================================================================================================================================
-*  🗓    I'm 18 years old
+*  🗓  I'm 18 years old
 * 🌍  I live in St. Petersburg, Russia
-* 
+* 🎓  I study at ITMO University
 * ✉️  You can contact me at [227ad44@gmail.com](mailto:227ad44@gmail.com)
 
 ***
