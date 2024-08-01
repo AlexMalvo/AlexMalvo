@@ -15,7 +15,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img width="50" src="https://www.svgrepo.com/show/354243/qt.svg" alt="Qt" title="Qt"/><img width="50" src="https://www.svgrepo.com/show/373554/django.svg" alt="Django" title="Django"/>
 <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" alt="NumPy" title="NumPy"/>
 <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="Pandas" title="Pandas"/>
-<img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/>
+<img width="50" src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="PostgreSQL" title="PostgreSQL"/>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" title="TensorFlow"/>
