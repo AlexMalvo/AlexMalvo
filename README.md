@@ -12,9 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 ### My tech stack
-<p align="left">
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg](https://cdn.freelogovectors.net/wp-content/uploads/2022/03/clickhouse_logo_freelogovectors.net_-400x355.png)" width="36" height="36" alt="PostgreSQL" /></a>
-</p>
+https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png
 
 ### My socials
 
